@@ -1,2 +1,3 @@
 # my.Diesel
-https://www.autotrader.com/cars-for-sale/diesel/volkswagen/jetta/richmond-va-23218?dma=&amp;searchRadius=500&amp;location=&amp;marketExtension=include&amp;isNewSearch=true&amp;showAccelerateBanner=false&amp;sortBy=derivedpriceASC&amp;numRecords=25
+used, volkswagen jetta, diesel, within 500 miles, zip code 21758
+https://www.autotrader.com/cars-for-sale/diesel/volkswagen/jetta/richmond-va-23218?dma=&searchRadius=500&location=&marketExtension=include&isNewSearch=true&showAccelerateBanner=false&sortBy=derivedpriceASC&numRecords=25
